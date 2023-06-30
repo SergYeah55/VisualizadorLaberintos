@@ -16,4 +16,10 @@ Being an application focused on interaction with the user and interfaces, it wil
 
 IMAGEN1
 
-2-
+2- This interface contains all the elements to be able to customize the maze problem that you want to try to solve. There are two dropdown menus: one with the dimensions of the maze and another with the algorithm you want to use to solve it. The application has been designed so that the upper left corner is always the beginning and the lower right corner is always the end. This decision may be changed in future updates.
+
+The maze will be created randomly in the following interface with the dimensions that are chosen, either 3x3, 4x4 or 6x6. The three search algorithms chosen will be two focused on graphs (width and depth) and one heuristic (A star). When the parameters that the user wants have been chosen, the continue button is pressed.
+
+IMAGEN2
+
+3-
