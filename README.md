@@ -9,3 +9,11 @@ The entire application is summarized in several interfaces where any student wil
 This type of tool have been a common application throughout the university degree, serving as **a great help with other types of environments or programming problems** . For this reason, we have sought to choose a tool that can be useful for subsequent generations of students, just as others have served for our promotion. With this, it is possible to unite interesting concepts such as **video games and programming**, encouraging students to continue investigating algorithms.
 
 ## Instructions
+
+Being an application focused on interaction with the user and interfaces, it will be important to know the flow through them. For this reason it will be convenient to address each of the screens separately and in an orderly manner.
+
+1- The first interface that can be seen when start the application is the logo, with the name of the application, and a button to go to the next interface.
+
+IMAGEN1
+
+2-
