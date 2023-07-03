@@ -45,4 +45,6 @@ IMAGEN4 IMAGEN5
 
 IMAGEN6 IMAGEN7
 
+All this application has been created for educational purposes, so the options for future updates are quite wide.
+
 
