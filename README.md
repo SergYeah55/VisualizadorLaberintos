@@ -32,4 +32,17 @@ The visualization button will allow the navigation menu to appear with the butto
 IMAGEN3
 
 4- From this moment on, the user will be able to progress in solving the maze, analyzing each case through a succession of states:
-  +
+
+  - The program checks if it is in the goal
+  - If it finds the goal, the algorithm will stop, but if it doesn't, it will look at the next cell, depending on the chosen algorithm.
+  - The current cell is marked as visited and the next option is marked to repeat the entire process.
+
+The user can advance or go back in the search, being able to wait longer where he has doubts. Each of these states will be accompanied by a pseudo code of what is being done at each moment. All these code extracts have a much more literary explanation.
+
+IMAGEN4 IMAGEN5
+
+5-When the goal is found, everything ends and a window appears indicating the number of steps you have taken towards the goal with that method. The user can choose to repeat that maze with another method. In the maze you will see the number of decisions that have led to the right path and those that have not, through a color code.
+
+IMAGEN6 IMAGEN7
+
+
