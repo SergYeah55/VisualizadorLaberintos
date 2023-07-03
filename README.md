@@ -22,4 +22,14 @@ The maze will be created randomly in the following interface with the dimensions
 
 IMAGEN2
 
-3-
+3- When the user enters this interface from the selection menu, the first thing he will see is a button to create the maze. Pressing it will create, internally, the structure that stores the labyrinth. The maze will be visible on the right side and a button to solve it.
+
+Pressing the solve button will cause the maze to be solved internally, in order to store in a data structure the order of the maze run according to the chosen algorithm. After this, the button to view the solution becomes visible.
+
+
+The visualization button will allow the navigation menu to appear with the buttons in charge of moving forward or backward in the resolution of the maze, keeping in mind the origin and the goal.
+
+IMAGEN3
+
+4- From this moment on, the user will be able to progress in solving the maze, analyzing each case through a succession of states:
+  +
