@@ -14,13 +14,14 @@ Being an application focused on **interaction with the user and interfaces**, it
 
 1- The **first interface** that can be seen when start the application is the logo, with the name of the application, and a button to go to the next interface.
 
-IMAGEN1
+<p align="center"> <img width="809" height="423" src="https://raw.githubusercontent.com/SergYeah55/VisualizadorLaberintos/master/IMAGES/IMG1.png"></p>
 
 2- This interface contains **all the elements to be able to customize** the maze problem that you want to try to solve. There are two dropdown menus: one with the dimensions of the maze and another with the algorithm you want to use to solve it. The application has been designed so that **the upper left corner** is always the beginning and **the lower right corner** is always the end. This decision may be changed in future updates.
 
 The maze will be created randomly in the following interface with the dimensions that are chosen, either 3x3, 4x4 or 6x6. The three search algorithms chosen will be **two focused on graphs** (width and depth) and **one heuristic** (A star). When the parameters that the user wants have been chosen, the continue button is pressed.
 
-IMAGEN2
+<p align="center"> <img width="809" height="423" src="https://raw.githubusercontent.com/SergYeah55/VisualizadorLaberintos/master/IMAGES/IMG2.png"></p>
+<p align="center"> <img width="809" height="423" src="https://raw.githubusercontent.com/SergYeah55/VisualizadorLaberintos/master/IMAGES/IMG3.png"></p>
 
 3- When the user enters this interface from the selection menu, the first thing he will see is **a button to create the maze**. Pressing it will create, internally, the structure that stores the labyrinth. The maze will be visible **on the right side** and a button to solve it.
 
@@ -29,7 +30,7 @@ Pressing the solve button will cause the maze to be solved internally, in **orde
 
 The visualization button will **allow the navigation menu to appear** with the buttons in charge of moving forward or backward in the resolution of the maze, keeping in mind the origin and the goal.
 
-IMAGEN3
+<p align="center"> <img width="809" height="423" src="https://raw.githubusercontent.com/SergYeah55/VisualizadorLaberintos/master/IMAGES/IMG4.png"></p>
 
 4- From this moment on, the user will be able to **progress in solving the maze**, analyzing each case through a succession of states:
 
@@ -39,11 +40,13 @@ IMAGEN3
 
 The user **can advance or go back in the search**, being able to wait longer where he has doubts. Each of these states will be accompanied by a pseudo code of what is being done at each moment. All these code extracts have a much more literary explanation.
 
-IMAGEN4 IMAGEN5
+<p align="center"> <img width="680" height="280" src="https://raw.githubusercontent.com/SergYeah55/VisualizadorLaberintos/master/IMAGES/IMG5.png"></p>
+<p align="center"> <img width="680" height="280" src="https://raw.githubusercontent.com/SergYeah55/VisualizadorLaberintos/master/IMAGES/IMG6.png"></p>
 
 5-When the goal is found, **everything ends and a window appears indicating the number of steps** you have taken towards the goal with that method. The user can choose to repeat that maze with another method. In the maze it will see **the number of decisions** that have led to the right path and those that have not, through **a color code**.
 
-IMAGEN6 IMAGEN7
+<p align="center"> <img width="729" height="382" src="https://raw.githubusercontent.com/SergYeah55/VisualizadorLaberintos/master/IMAGES/IMG7.png"></p>
+<p align="center"> <img width="250" height="250" src="https://raw.githubusercontent.com/SergYeah55/VisualizadorLaberintos/master/IMAGES/IMG8.png"></p>
 
 All this application **has been created for educational purposes**, so the options for future updates are quite wide.
 
